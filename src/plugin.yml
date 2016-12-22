@@ -1,0 +1,5 @@
+name: KIOD
+main: net.came20.kiod.KIOD
+version: 1.0
+author: Cameron Earle
+description: Keeps inventory on PVP deaths
